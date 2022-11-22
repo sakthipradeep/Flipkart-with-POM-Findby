@@ -7,7 +7,7 @@ import org.testng.annotations.Test;
 import io.github.bonigarcia.wdm.WebDriverManager;
 import pageObjects.CartPageObjects;
 import pageObjects.LoginPageObjects;
-
+adding the searche operationz in this code
 public class CartPage {
 	@Test
 	public void search() {
